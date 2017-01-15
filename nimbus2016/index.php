@@ -65,11 +65,8 @@
                     <div class="main-menu">
                         <ul class="nav navbar-nav navbar-right">
                             <li>
-<<<<<<< HEAD:nimbus2016/index.php
                                 <a href="../index.php" >Home</a>
-=======
-                                <a href="index.php" >Home</a>
->>>>>>> 93c090de1f9b75bd864eae61ac46b1df5a57b43f:index.tmpl.php
+
                             </li>
                             <li><a href="paradox/">Paradox</a></li>
                             <li><a href="about.html">About</a></li>
@@ -157,13 +154,13 @@
                                 </div>
                                 <figcaption>
                                 <h3>
-<<<<<<< HEAD:nimbus2016/index.php
+
                                 <a href="http://goo.gl/forms/JC6hMFQKFV" target="_blank" title="register now">
                                     CodeSense<sup id="nimbus"> During Nimbus</sup>
-=======
+
                                 <a href="webbed/index.php" target="_blank" title="select theme">
                                     Webbed<sup id="ongoing"> Ongoing</sup>
->>>>>>> 93c090de1f9b75bd864eae61ac46b1df5a57b43f:index.tmpl.php
+
                                 </a>
                                 </h3>
                                 <p>
