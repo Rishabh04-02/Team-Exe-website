@@ -158,8 +158,7 @@
                                 <a href="http://goo.gl/forms/JC6hMFQKFV" target="_blank" title="register now">
                                     CodeSense<sup id="nimbus"> During Nimbus</sup>
 
-                                <a href="webbed/index.php" target="_blank" title="select theme">
-                                    Webbed<sup id="ongoing"> Ongoing</sup>
+                                
 
                                 </a>
                                 </h3>
