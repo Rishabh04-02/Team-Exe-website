@@ -25,12 +25,12 @@
   $url = 'http://localhost/Program-O/Program-O/chatbot/conversation_start.php';
   $url = 'chat.php';
 */
-/*
+
   $display = "The URL for the API is currently set as:<br />\n$url.<br />\n";
   $display .= 'Test this to make sure it is correct by <a href="'.$url.'?say=hello">clicking here</a>. Then remove this message from gui/jquery/index.php' . PHP_EOL;
   $display .= 'And don\'t forget to upload your AIML files in the admin area otherwise you will not get a response!'. PHP_EOL;
   #$display = '';
-*/
+
   /**
    * Function jq_get_convo_id
    *
@@ -132,18 +132,18 @@
     </style>
   </head>
   <body>
-<!--    <h3>Program O JSON GUI</h3>
+    <h3>Program O JSON GUI</h3>
     <p class="center">
       This is a simple example of how to access the Program O chatbot using the JSON API. Feel free to change the HTML
       code for this page to suit your specific needs. For more advanced uses, please visit us at <a href="http://www.program-o.com/">
       Program O</a>.
-    </p> -->
+    </p>
     <hr class="center">
     <p class="center">
       Please check out the Multi-bot example GUI <a href="multibot_gui_with_chatlog.php">here</a>.
     </p>
     <!-- The DIV below is for debugging purposes, and can be safely removed, if desired. -->
-<!--     <div id="convo_id">Conversion ID: <?php echo $convo_id;?></div> -->
+    <div id="convo_id">Conversion ID: <?php echo $convo_id;?></div>
     <div class="centerthis">
       <div class="rightside">
       <div class="manspeech">
@@ -175,10 +175,10 @@
         </div>
       </form>
     </div>
-<!--     <div id="shameless_plug">
+    <div id="shameless_plug">
       To get your very own chatbot, visit <a href="http://www.program-o.com">program-o.com</a>!
     </div>
-    <div id="urlwarning"><?php echo $display ?></div> -->
+    <div id="urlwarning"><?php echo $display ?></div>
     <script type="text/javascript" src="jquery-1.9.1.min.js"></script>
     <script type="text/javascript" >
      $(document).ready(function() {

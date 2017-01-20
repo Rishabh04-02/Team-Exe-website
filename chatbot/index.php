@@ -1,5 +1,14 @@
 <?php
 
+  /***************************************
+  * http://www.program-o.com
+  * PROGRAM O
+  * Version: 2.6.3
+  * FILE: index.php
+  * AUTHOR: Elizabeth Perreau and Dave Morton
+  * DATE: 02-13-2013
+  * DETAILS: Program O's starting point
+  ***************************************/
 
   if (!file_exists('config/global_config.php'))
   {

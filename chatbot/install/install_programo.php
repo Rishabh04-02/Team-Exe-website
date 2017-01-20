@@ -33,6 +33,7 @@
   foreach ($writeCheckArray as $key => $folder) {
     if (!is_writable($folder)) {
       $errFlag = true;
+      error_log("The folder $folder is not writable.", 3, '../logs/install.log');
       $errorMessage .= <<<endWarning
       <p class="red bold">
         The $key folder cannot be written to, or does not exist. Please correct this before you continue.
@@ -164,7 +165,6 @@ endPage;
     $configContents = str_replace($tagSearch, $varReplace, $configContents);
     $saveFile = file_put_contents(_CONF_PATH_ . 'global_config.php', $configContents);
     // Now, update the data to the database, starting with making sure the tables are installed
-//update this
     $dbh = $myPostVars['dbh'];
     $dbn = $myPostVars['dbn'];
     $dbu = $myPostVars['dbu'];

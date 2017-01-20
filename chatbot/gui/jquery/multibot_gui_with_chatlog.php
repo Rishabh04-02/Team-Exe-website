@@ -18,17 +18,16 @@
   $this_path = str_replace(DIRECTORY_SEPARATOR, '/', realpath(dirname(__FILE__)));  // The current location of this file, normalized to use forward slashes
   $this_path = str_replace($_SERVER['DOCUMENT_ROOT'], $base_URL, $this_path);       // transform it from a file path to a URL
   $root_url = str_replace('gui/jquery', '', $this_path);   // and set it to the correct script location
-  $url = $root_url . 'chatbot/conversation_start.php';   // and set it to the correct script location - changed -rishabh
+  $url = $root_url . 'chatbot/conversation_start.php';   // and set it to the correct script location
 /*
   Example URL's for use with the chatbot API
   $url = 'http://api.program-o.com/v2.3.1/chatbot/';
   $url = 'http://localhost/Program-O/Program-O/chatbot/conversation_start.php';
   $url = 'chat.php';
 */
-/*
+
   $display = "The URL for the API is currently set as:<br />\n$url.<br />\n";
   $display .= 'Please make sure that you edit this file to change the value of the variable $url in this file to reflect the correct URL address of your chatbot, and to remove this message.' . PHP_EOL;
-*/
   #$display = '';
 
   /**
@@ -138,14 +137,14 @@
       }
 
     </style>
-<!--   </head>
+  </head>
   <body>
     <h3>Program O XML GUI</h3>
     <p>
       This is a simple example of how to access the Program O chatbot using the JSON API. Feel free to change the HTML
       code for this page to suit your specific needs. For more advanced uses, please visit us at <a href="http://www.program-o.com/">
         Program O</a>.
-    </p> -->
+    </p>
     <div class="clearthis"></div>
     <div class="centerthis">
       <form method="post" name="talkform" id="talkform" action="index.php">

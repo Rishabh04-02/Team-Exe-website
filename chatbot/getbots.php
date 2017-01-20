@@ -1,4 +1,13 @@
 <?php
+  /***************************************
+  * http://www.program-o.com
+  * PROGRAM O
+  * Version: 2.6.3
+  * FILE: getbots.php
+  * AUTHOR: Elizabeth Perreau and Dave Morton
+  * DATE: MAY 17TH 2014
+  * DETAILS: Searches the database for all active chatbots, returning a JSON encoded array of ID/name pairs
+  ***************************************/
 
   $time_start = microtime(true);
   $script_start = $time_start;
