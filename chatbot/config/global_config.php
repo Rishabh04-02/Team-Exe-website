@@ -69,7 +69,7 @@
   $time_zone_locale = '[time_zone_locale]'; // a full list can be found at http://uk.php.net/manual/en/timezones.php
   $dbh    = 'mysql.hostinger.in';  # dev remote server location
   $dbPort = '80';    # dev database name/prefix
-  $dbn    = 'chatbot';    # dev database name/prefix
+  $dbn    = 'u339350735_chtbt';    # dev database name/prefix
   $dbu    = 'u339350735_chtbt';       # dev database username
   $dbp    = 'itsabotpassword';  # dev database password
   //these are the admin DB settings in case you want make the admin a different db user with more privs
