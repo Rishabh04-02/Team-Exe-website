@@ -66,7 +66,6 @@
                         <ul class="nav navbar-nav navbar-right">
                             <li>
                                 <a href="../index.php" >Home</a>
-
                             </li>
                             <li><a href="paradox/">Paradox</a></li>
                             <li><a href="about.html">About</a></li>
@@ -114,7 +113,7 @@
                                 </section> <!-- cd-intro -->
                                 <!-- /.slider -->
                                 <h2 class="wow fadeInUp animated" data-wow-delay=".6s" >
-                                   Team .EXE is the technical team of Computer Science & Engineering Department for <br/>technical fest <a href="http://festnimbus.com" target="_blank" title="Fest Nimbus Website"> NIMBUS</a>
+                                   Team .EXE is the technical team of Computer Science & Engineering Department for <br/>technical fest NIMBUS
                                    at<br/>
                                    <a href="http://nith.ac.in/" target="_blank" title="NIT Hamirpur Website"> NIT Hamirpur</a>.
                                    <br/>
@@ -154,12 +153,8 @@
                                 </div>
                                 <figcaption>
                                 <h3>
-
                                 <a href="http://goo.gl/forms/JC6hMFQKFV" target="_blank" title="register now">
                                     CodeSense<sup id="nimbus"> During Nimbus</sup>
-
-                                
-
                                 </a>
                                 </h3>
                                 <p>
