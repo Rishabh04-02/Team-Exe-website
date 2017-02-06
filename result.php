@@ -112,7 +112,7 @@ Rashi Sah 15MI528</br>
 Ritu Dadhwal 15529</br>
 Sarabjit Singh 15MI535</br>
 Shaharyar Shamshi IIITU15125</br>
-Sourav Sahoo 15MI502</br></h1>
+Sourav Sahoo 15MI502</br>
 Vaibhav Sharma 15548</br>
 Vishal Chaudhary 15MI511
 </h1>
