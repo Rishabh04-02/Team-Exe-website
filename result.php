@@ -102,6 +102,7 @@
                                 <h1 class="wow fadeInUp animated" data-wow-delay=".6s" >
 </br>
 Amit Chambial 15538</br>
+Anant kabra IIITU15124</br>
 Anishka Gupta 15MI534</br>
 Ankit Guleria 15504</br>
 Apoorva Sharma 15510</br>
