@@ -100,33 +100,23 @@
                                 </section> <!-- cd-intro -->
                                 <!-- /.slider -->
                                 <h1 class="wow fadeInUp animated" data-wow-delay=".6s" >
-</br>Anishka Gupta 15MI534</br>
+</br>
+Amit Chambial 15538</br>
+Anishka Gupta 15MI534</br>
 Ankit Guleria 15504</br>
-
 Apoorva Sharma 15510</br>
+Divyansh Sharma 15516</br>
+Kumar Shashwat  15554</br>
 Nimit Bhardwaj 15MI506</br>
 Rashi Sah 15MI528</br>
 Ritu Dadhwal 15529</br>
 Sarabjit Singh 15MI535</br>
 Shaharyar Shamshi IIITU15125</br>
 Sourav Sahoo 15MI502</br></h1>
-</br></br>
-<h1 class="wow fadeInUp animated cd-headline slide" data-wow-delay=".4s" >
-<span class="cd-words-wrapper">
-<b class="is-visible">Shortlisted students for 2nd round</b>
-</span>
-</h1>
-<h1 class="wow fadeInUp animated" data-wow-delay=".6s" >
-Anant Kabra </br>
-Anurag Thakur 15545</br>
-Amit Chambial 15538</br>
-Divyansh Sharma 15516</br>
-Kumar Shashwat  15554</br>
-Sushant Sharma</br>
 Vaibhav Sharma 15548</br>
 Vishal Chaudhary 15MI511
 </h1>
-<h2>Note - Students will be notified later about 2nd round.</h2>
+
                                 
 
                                 
