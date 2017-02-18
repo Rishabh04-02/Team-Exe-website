@@ -1,3 +1,8 @@
+//code of tic-tac-toe bot 
+//workshop Team .EXE - 18 february, 2017
+//website - teamexe.in
+//author - Gurpreet Singh
+
 #include <iostream>
 #include <stdio.h>
 #include <climits>
