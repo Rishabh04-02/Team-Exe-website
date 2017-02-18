@@ -89,7 +89,7 @@ pair<int, int> tictac::movegen(int board[n][n], int turn)
 					move.first = i; move.second = j;
 				}
 				board[i][j] = 0;
-				cout<<"score = "<<i<<" "<<j<<" "<<tempScore<<endl;
+				//cout<<"score = "<<i<<" "<<j<<" "<<tempScore<<endl;
 			}
 		}
 	}
